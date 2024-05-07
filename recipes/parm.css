@@ -1,0 +1,57 @@
+
+body h1 {
+    text-align: center;
+    color: whitesmoke;
+    background-color: brown;
+}
+
+.parmpic {
+    height: auto;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+
+.image {
+    background-color: red;
+}
+
+.Ingredients {
+    color: green;
+    line-height: 50px;
+    font-size: 50px;
+    text-indent: 20px;
+    font-family: papyrus;
+}
+
+#ul { 
+    display:inline-block;
+    border:10px lightgreen;
+    padding:70px;
+}
+
+.description {
+    font-family: papyrus;
+    text-align: right;
+}
+
+div .mario {
+    width: auto;
+    height: auto;
+    float: right;
+}
+
+div .gordon {
+    float: right;
+}
+
+ol { 
+    text-align: center;
+}
+
+.thumb {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
