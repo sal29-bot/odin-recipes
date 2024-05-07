@@ -1,0 +1,17 @@
+body h1 {
+    text-align: center;
+    color: whitesmoke;
+    background-color: brown;
+}
+
+.parmpic {
+    height: auto;
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+
+.image {
+    background-color: red;
+}
+
