@@ -1,1 +1,1 @@
-# odin-recipes
+The purpose of this project is to practice my HTML and CSS skills. I'm creating a chicken parmesan recipe. After I've completed this I will have shown the ability to use HTML and CSS to code a very basic website page, as well as link it to other pages.# odin-recipes
